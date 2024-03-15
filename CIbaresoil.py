@@ -9,7 +9,7 @@ This script has 5 steps: 1) add a doy (day of year) band according to date band;
 with two steps; 5) calcute the cropping intensity and export the beginning and end time 
 of soil exposed.
 
-The package is uesd for pixel by pixel calculation.
+The package is used for pixel by pixel calculation.
 
 """
 
