@@ -4,7 +4,7 @@
 ### 1. Using CIbaresoil to calculate cropping intensity
 **'CIcalculate'** is the function to calculate cropping intensity based on bare soil occurrence in [CIbaresoil.py](https://github.com/yuyang322/Mappingcroppingintensity/blob/main/CIbaresoil.py):  
 ```python
-from CIcalcualte import CIcalculate  
+from CIbaresoil import CIcalculate  
 return_arr = CIcalculate(pixel_arr, date, B2, B3, B4, B8, B11, B12, MSK_CLDPRB, qa_60, SCL, NDVI_thre, NBR2_thre, Test_window, N_DAYS)
 ```
 
