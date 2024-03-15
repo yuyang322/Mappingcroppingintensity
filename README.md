@@ -63,6 +63,6 @@ The input parameters and the return of the function:
   target_date = datetime.strptime(time_str, '%Y%m%d')
   date = (target_date - origin_date).days + 1
   ```
-* A demo for calculation of one pixel: [demo_main.py](https://github.com/yuyang322/Mappingcroppingintensity/blob/main/main.py)  
-  [demoforsinglecropping.csv](https://github.com/yuyang322/Mappingcroppingintensity/blob/main/demoforsinglecropping.xls) and [demofordoublecropping.csv](https://github.com/yuyang322/Mappingcroppingintensity/blob/main/demofordoublecropping.xls) can be used as the input of the demo
+* A demo for calculation of one pixel: [demo_main.py](https://github.com/yuyang322/Mappingcroppingintensity/blob/main/demo_main.py)  
+  [demoforsinglecropping.csv](https://github.com/yuyang322/Mappingcroppingintensity/blob/main/demoforsinglecropping.csv) and [demofordoublecropping.csv](https://github.com/yuyang322/Mappingcroppingintensity/blob/main/demofordoublecropping.csv) can be used as the input of the demo
 
